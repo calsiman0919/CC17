@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839000274970",
+    "project_id": "leap-c3762",
+    "storage_bucket": "leap-c3762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839000274970:android:36f864d172264b460a39a3",
+        "android_client_info": {
+          "package_name": "com.application.leap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839000274970-b4l46j6fs4so7pvem2h5o5g4rub9equt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.leap",
+            "certificate_hash": "c2fd84c33f816915c6caa5415b30c34359e0c3fe"
+          }
+        },
+        {
+          "client_id": "839000274970-017lioi15930g93j1npc2u59p5qucqft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oH4XAsG-KRmZUQNMWfVxUERDbbS_Cak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839000274970-017lioi15930g93j1npc2u59p5qucqft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
