@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/drawable-anydpi/ic_profile_picture.xml" value="0.333" />
+        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/homescreen.xml" value="0.33" />
-        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/signup.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/clevi/AndroidStudioProjects/Leap/app/src/main/res/layout/signup.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
