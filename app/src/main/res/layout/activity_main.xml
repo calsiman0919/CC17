@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/appbgtest2">
 
     <ImageView
         android:id="@+id/imageView"
@@ -47,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
-        app:backgroundTint="@color/yellow"
+        app:backgroundTint="@color/yellow_2"
         android:textColor="@color/black"
 
 
@@ -63,7 +64,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="Sign up"
-        app:backgroundTint="@color/yellow"
+        app:backgroundTint="@color/yellow_2"
         android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="@+id/btnSignIn"
         app:layout_constraintHorizontal_bias="0.75"
