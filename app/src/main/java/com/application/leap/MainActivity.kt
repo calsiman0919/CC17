@@ -10,6 +10,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        btnSignIn.setOnClickListener {
+            Intent(this, homeScreenActivity::class.java).also {
+                startActivity(it)
+            }
+        }
+
         btnSignUp.setOnClickListener {
             Intent( this, SignUpActivity::class.java).also {
                 startActivity(it)

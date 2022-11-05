@@ -3,6 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.application.leap">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,10 +17,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Leap"
         tools:targetApi="31">
-        <activity
-            android:name=".ForgotPassword" />
-        <activity
-            android:name=".SignUpActivity"/>
+
+        <activity android:name=".homeScreenActivity" />
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".SignUpActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
